@@ -1,2 +1,3 @@
 # CollegeProject7
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+![](Feb-21-2020 22-31-56.gif)
+
