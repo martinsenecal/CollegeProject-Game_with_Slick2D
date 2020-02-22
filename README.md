@@ -1,5 +1,2 @@
 # CollegeProject7
-
-<video width="320" height="240" autoplay>
-  <source src="movie.mp4" type="video/mp4">
-</video>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
